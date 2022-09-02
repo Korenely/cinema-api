@@ -1,8 +1,8 @@
-"# cinema-api" 
+# cinema-api
 
 DRF project for managing cinema
 
-"# Installation"
+# Installation
 
 Python3 must be already installed
 
